@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "doanoopfinal", "doanoopfinal\doanoopfinal.csproj", "{B4BE254A-A2F6-4361-8E52-4172EBDD1801}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4BE254A-A2F6-4361-8E52-4172EBDD1801}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4BE254A-A2F6-4361-8E52-4172EBDD1801}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4BE254A-A2F6-4361-8E52-4172EBDD1801}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4BE254A-A2F6-4361-8E52-4172EBDD1801}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68181034-03F6-4B45-856A-706E32B8209F}
+	EndGlobalSection
+EndGlobal
